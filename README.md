@@ -1,5 +1,5 @@
 # xDrip_PCB
-<img>http://hodginsa.com/pics/DexDripLayout.jpg</img>
+<img src="http://hodginsa.com/pics/DexDripLayout.jpg">
 A custom PCB for the xDrip Project
 <p>The xDrip project can be found here: http://stephenblackwasalreadytaken.github.io/xDrip/
 Note: This board has not been tested. It is a WIP.
